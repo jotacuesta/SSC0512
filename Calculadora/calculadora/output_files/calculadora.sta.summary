@@ -1,0 +1,173 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clkfpga'
+Slack : -3.759
+TNS   : -55.185
+
+Type  : Slow 1200mV 85C Model Setup 'rstdebouncer'
+Slack : -2.963
+TNS   : -5.375
+
+Type  : Slow 1200mV 85C Model Setup 'clkm'
+Slack : -1.799
+TNS   : -1.799
+
+Type  : Slow 1200mV 85C Model Setup 'contador:inst2|inst'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clkfpga'
+Slack : 0.322
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'contador:inst2|inst'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'rstdebouncer'
+Slack : 1.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clkm'
+Slack : 1.818
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clkfpga'
+Slack : -2.031
+TNS   : -26.259
+
+Type  : Slow 1200mV 85C Model Removal 'clkfpga'
+Slack : 0.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clkfpga'
+Slack : -3.000
+TNS   : -26.130
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clkm'
+Slack : -3.000
+TNS   : -4.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'rstdebouncer'
+Slack : -3.000
+TNS   : -4.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'contador:inst2|inst'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Setup 'clkfpga'
+Slack : -3.266
+TNS   : -49.379
+
+Type  : Slow 1200mV 0C Model Setup 'rstdebouncer'
+Slack : -2.594
+TNS   : -4.661
+
+Type  : Slow 1200mV 0C Model Setup 'clkm'
+Slack : -1.619
+TNS   : -1.619
+
+Type  : Slow 1200mV 0C Model Setup 'contador:inst2|inst'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clkfpga'
+Slack : 0.320
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'contador:inst2|inst'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'rstdebouncer'
+Slack : 1.243
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clkm'
+Slack : 1.689
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clkfpga'
+Slack : -1.784
+TNS   : -22.737
+
+Type  : Slow 1200mV 0C Model Removal 'clkfpga'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clkfpga'
+Slack : -3.000
+TNS   : -26.130
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clkm'
+Slack : -3.000
+TNS   : -4.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'rstdebouncer'
+Slack : -3.000
+TNS   : -4.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'contador:inst2|inst'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Fast 1200mV 0C Model Setup 'clkfpga'
+Slack : -1.623
+TNS   : -28.842
+
+Type  : Fast 1200mV 0C Model Setup 'rstdebouncer'
+Slack : -1.428
+TNS   : -2.832
+
+Type  : Fast 1200mV 0C Model Setup 'clkm'
+Slack : -0.400
+TNS   : -0.400
+
+Type  : Fast 1200mV 0C Model Setup 'contador:inst2|inst'
+Slack : 0.624
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clkfpga'
+Slack : -0.127
+TNS   : -0.127
+
+Type  : Fast 1200mV 0C Model Hold 'contador:inst2|inst'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clkm'
+Slack : 0.598
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'rstdebouncer'
+Slack : 0.629
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clkfpga'
+Slack : -1.299
+TNS   : -17.227
+
+Type  : Fast 1200mV 0C Model Removal 'clkfpga'
+Slack : -0.053
+TNS   : -0.053
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clkfpga'
+Slack : -3.000
+TNS   : -22.037
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clkm'
+Slack : -3.000
+TNS   : -4.435
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'rstdebouncer'
+Slack : -3.000
+TNS   : -4.202
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'contador:inst2|inst'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------
